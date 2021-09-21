@@ -1,0 +1,6 @@
+Install multer => npm i -D @types/multer.
+
+FileInterceptor take two arguments 1. fieldName from  front end.
+
+@UploadedFile() Will extract file from request.
+
